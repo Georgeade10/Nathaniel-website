@@ -4,7 +4,7 @@ import profileImg from '../../assets/profile-img.png';
 import { Link } from 'react-scroll';
 
 import { FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
-import CV from '../../assets/GeorgeAdeola__Fullstack-en.pdf';
+import CV from '../../assets/Nathaniel_obafemi_dataAnalyst.pdf';
 import './home.css';
 
 const Home = () => {
@@ -20,7 +20,7 @@ const Home = () => {
           </h1>
 
           <p className='home__job'>
-            <b>Full Stack Web Developer & Digital Marketing </b>
+            <b>Data Analyst </b>
           </p>
 
           <div className='home__img-wrapper'>
@@ -29,7 +29,7 @@ const Home = () => {
                 src={profileImg}
                 alt=''
                 className='home__profile'
-                style={{ marginLeft: '90px' }}
+                style={{ marginLeft: '50px' }}
               />
             </div>
 
@@ -55,12 +55,15 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-            Highly Motivated Web developer and digital Marketing professional
-            with strong customer service and creative ability. Proven experience
-            developing consumer-focused websites with modern web development
-            technologies like react, express, typescript etc. A driven-self
-            starter who is adept at digital marketing and sales to promote your
-            online presence, attract new customers, and drive business results.
+            Nathaniel Obafemi is a skilled and motivated data analyst and
+            environmental scientist with 4 years of experience in environmental
+            research. He is proficient in statistical analysis, modeling, and
+            data visualization using software such as SQL, Python, Excel, and
+            Tableau to develop data-driven solutions to complex problems.
+            Nathaniel is committed to staying up-to-date with the latest
+            industry trends and has a Master's degree in Environmental Science
+            while currently being a Data Analysis student. He is a lifelong
+            learner and valuable asset to any team or project
           </p>
 
           <div className='home__socials'>

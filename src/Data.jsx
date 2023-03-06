@@ -1,15 +1,5 @@
-import Project1 from './assets/project1.jpg';
-import Project2 from './assets/project2.jpg';
-import Project3 from './assets/project3.jpg';
-import Project4 from './assets/project4.jpg';
-import Project5 from './assets/project5.jpg';
-import Project6 from './assets/project6.jpg';
-import Project7 from './assets/project7.jpg';
-import Project8 from './assets/project8.jpg';
-import Project9 from './assets/project9.jpg';
-import Project10 from './assets/project10.jpg';
-import Project11 from './assets/project11.jpg';
-import Project12 from './assets/project12.jpg';
+import Project1 from './assets/project1.png';
+import Project2 from './assets/project2.png';
 
 import Testimonial1 from './assets/testimonial1.jpg';
 import Testimonial2 from './assets/testimonial2.jpg';
@@ -203,96 +193,6 @@ export const projects = [
       'Website was built with reactjs for a locksmith firm in Barcelona',
     href: 'https://cerrajeriaamigos.com',
   },
-  {
-    id: 11,
-    img: Project11,
-    category: 'Branding',
-    title: 'Blog post design',
-    description:
-      'Lead design for a blog post. graphics was created with photoshop.',
-    href: 'https://eunbs.com/blog/',
-  },
-
-  {
-    id: 3,
-    img: Project3,
-    category: 'Branding',
-    title: 'Billboard Branding',
-    description:
-      'I created the design with photoshop and managed the branding of the billboard and other marketing materials used for the promotion',
-    href: 'https://www.foodco.ng/welcome.php',
-  },
-  {
-    id: 4,
-    img: Project4,
-    category: 'Branding',
-    title: 'FoodCo Anniversary',
-    description:
-      'I created and managed all the design and branding for the Foodco 38th Anniversaty. branding projects include flyers, banners, truck branding and other marketing materials',
-    href: 'https://www.foodco.ng/welcome.php',
-  },
-  {
-    id: 5,
-    img: Project5,
-    category: 'Branding',
-    title: 'Game center branding',
-    description:
-      'I created branding and promotion for foodco arcade. branding project includes window graphics, game room branding, flyers etc',
-    href: 'https://www.foodco.ng/welcome.php',
-  },
-  {
-    id: 6,
-    img: Project6,
-    category: 'Branding',
-    title: 'Roll up Banner',
-    description:
-      'I Created Roll up banners, t-shirts, window graphics design and branding for budget supermart',
-  },
-  {
-    id: 7,
-    img: Project7,
-    category: 'Branding',
-    title: 'Flash Sales',
-    description:
-      'I created all marketing creatives and managed the FoodCo online flash sales that ran accross two big city Lagos and Ibadan.',
-    href: 'https://www.foodco.ng/welcome.php',
-  },
-  {
-    id: 8,
-    img: Project8,
-    category: 'Branding',
-    title: 'Marcbim Billboard',
-    description:
-      'I Created and deployed a billboard design for the Brand Marbim Supermarket',
-    href: '',
-  },
-  {
-    id: 9,
-    img: Project9,
-    category: 'Branding',
-    title: 'Roll up banners',
-    description:
-      'I designed, managed and deployed over 50 creatives for Foodco periodic marketing promotion projects',
-    href: 'https://www.foodco.ng/welcome.php',
-  },
-  {
-    id: 12,
-    img: Project12,
-    category: 'Branding',
-    title: 'Window graphics',
-    description:
-      'I created, managed and deployed window graphics and other marketing materials like flyers, t-shirt etc for the grand opening of budget supermarket',
-    href: '',
-  },
-  {
-    id: 10,
-    img: Project10,
-    category: 'Branding',
-    title: 'O-health & U-fitfly ',
-    description:
-      'I created creative design for ohealth and ufitfly collaboration. also created and managed digital marketing campaigns in the launch of ohealth app  ',
-    href: 'https://ohealthng.com/',
-  },
 ];
 
 export const cv = [
@@ -333,25 +233,6 @@ export const cv = [
     date: '2022 - present',
     description:
       'Manage company website and daily digital marketing activities',
-    category: 'experience',
-  },
-
-  {
-    id: 5,
-    title: 'Freelancer',
-    subtitle: 'Gola360',
-    date: '2020 - present',
-    description:
-      'Developing web applications, Digital Marketing and creative design services',
-    category: 'experience',
-  },
-
-  {
-    id: 6,
-    title: 'Digital Marketing Lead',
-    subtitle: 'FoodCo',
-    date: '2018 - 2021',
-    description: 'Managed Company Digital marketing and creative department',
     category: 'experience',
   },
 ];
