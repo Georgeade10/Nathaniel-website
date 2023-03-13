@@ -105,58 +105,56 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'React',
+    name: 'Data manipulation',
     percentage: 85,
     description:
-      'Good understanding of react core concepts including components, props and state. Ability to write reusable and maintainable code',
+      'The ability to efficiently and accurately manipulate large datasets using tools such as SQL, Python, or R is crucial for a data analyst',
   },
 
   {
     id: 2,
-    name: 'JavaScript',
+    name: 'Data visualization:',
     percentage: 75,
     description:
-      'Knowledge of Object-oriented programming and asynchronous programming, familiarity with popular frameworks and libraries',
+      'Data analysts should be skilled in creating compelling and informative visualizations using tools like Tableau, Power BI, or matplotlib',
   },
-
   {
     id: 3,
-    name: 'CSS',
+    name: 'Statistical analysis',
     percentage: 90,
     description:
-      'Proficiency in CSS syntax and selectors, Knowledge of CSS layout and techniques, great understanding of responsive designs.',
+      'A strong foundation in statistics is critical for a data analyst to properly analyze and interpret data, including techniques such as hypothesis testing and regression analysis.',
   },
-
   {
     id: 4,
-    name: 'Express',
+    name: 'Machine learning',
     percentage: 75,
     description:
-      'Familiarity with Express framework and good knowledge of database Integrations. Experience with RESTful APIs using express',
+      'Understanding and applying machine learning techniques such as clustering, classification, and regression is becoming increasingly important in the field of data analysis',
   },
 
   {
     id: 5,
-    name: 'Mongodb',
+    name: 'Data cleaning',
     percentage: 70,
     description:
-      'Familiarity with the MongoDB shell, Knowledge of data Modelling and experience and CRUD operations',
+      'Cleaning and preparing data for analysis is a necessary step in the data analysis process, and requires skills such as data wrangling and data normalization',
   },
 
   {
     id: 6,
-    name: 'Nextjs',
+    name: 'Programming',
     percentage: 60,
     description:
-      'Understanding of server-side rendering. Experience with Next.js API routes, Knowledge of static site generation and understanding of Next.js routing',
+      'Data analysts should be proficient in at least one programming language, such as Python or R, to effectively manipulate, analyze, and visualize data',
   },
 
   {
     id: 7,
-    name: 'Typescript',
+    name: 'Data warehousing',
     percentage: 60,
     description:
-      'Familiarity with Typescript syntax and understanding of data typing, Experienced with typescript framework and libraries',
+      'Understanding data warehousing concepts and working with tools such as ETL (Extract, Transform, Load) is important for managing and processing large datasets',
   },
   {
     id: 8,
@@ -167,10 +165,10 @@ export const skills = [
   },
   {
     id: 6,
-    name: 'Figma',
+    name: 'Database management',
     percentage: 60,
     description:
-      ' Understanding of Figmas interface and tools. Experience with design systems and understanding prototyping',
+      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
   },
 ];
 
@@ -178,20 +176,20 @@ export const projects = [
   {
     id: 1,
     img: Project1,
-    category: 'Full-Stack',
-    title: 'Job Tracking App',
+    category: 'Tableau',
+    title: 'HR Analytic Dashboard',
     description:
-      'Application built with MERN Technology, Mongodb, react, express and node js. ',
-    href: 'https://golajob.onrender.com/landing',
+      'The HR analytics project done in Tableau is an interactive dashboard that provides key metrics related to employee attrition, active employees, and average age within an organization ',
+    href: 'https://f19c59c6-696c-4494-922a-97aa7e9a092a.filesusr.com/ugd/7ca609_00003b6bdb484ea08e863d1115937a5a.pdf',
   },
   {
     id: 2,
     img: Project2,
-    category: 'React-App',
-    title: 'Cerrajeriaamigos.com',
+    category: 'Tableau',
+    title: 'US Census Demography Dashboard',
     description:
-      'Website was built with reactjs for a locksmith firm in Barcelona',
-    href: 'https://cerrajeriaamigos.com',
+      'The US Census Demography project done in Tableau is an interactive dashboard that presents various visualizations of the demographic data collected from the US Census Bureau.',
+    href: 'https://f19c59c6-696c-4494-922a-97aa7e9a092a.filesusr.com/ugd/7ca609_217db8c3e945436d880ebacefa206a7e.pdf',
   },
 ];
 

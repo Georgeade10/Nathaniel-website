@@ -1,8 +1,6 @@
 import React from 'react';
 import profileImg from '../../assets/profile-img.png';
-
 import { Link } from 'react-scroll';
-
 import { FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
 import CV from '../../assets/Nathaniel_obafemi_dataAnalyst.pdf';
 import './home.css';
@@ -18,7 +16,6 @@ const Home = () => {
           <h1 className='home__title text-cs'>
             <span>Nathaniel</span> Obafemi
           </h1>
-
           <p className='home__job'>
             <b>Data Analyst </b>
           </p>
@@ -45,7 +42,7 @@ const Home = () => {
 
             <p className='home__data home__data-two'>
               <span className='text-lg'>
-                100 <b>+</b>
+                20 <b>+</b>
               </span>
 
               <span className='text-sm text-cs'>
@@ -106,7 +103,7 @@ const Home = () => {
       </div>
 
       <div className='section__bg-wrapper'>
-        <span className='bg__title'>Web Developer</span>
+        <span className='bg__title'>Data Analyst</span>
       </div>
     </section>
   );
