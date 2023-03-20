@@ -92,7 +92,7 @@ const Header = () => {
               </a>
 
               <a
-                href='linkedin.com/in/nathaniel-obafemi/'
+                href='https://linkedin.com/in/nathaniel-obafemi/'
                 target='_blank'
                 className='header__social-link'
               >
