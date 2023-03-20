@@ -1,5 +1,6 @@
 import Project1 from './assets/project1.png';
 import Project2 from './assets/project2.png';
+import Project3 from './assets/project3.jpg';
 
 import Testimonial1 from './assets/testimonial1.jpg';
 import Testimonial2 from './assets/testimonial2.jpg';
@@ -191,46 +192,72 @@ export const projects = [
       'The US Census Demography project done in Tableau is an interactive dashboard that presents various visualizations of the demographic data collected from the US Census Bureau.',
     href: 'https://f19c59c6-696c-4494-922a-97aa7e9a092a.filesusr.com/ugd/7ca609_217db8c3e945436d880ebacefa206a7e.pdf',
   },
+  {
+    id: 2,
+    img: Project3,
+    category: 'Python',
+    title: 'ETL Process for Bank Market Cap Data',
+    description:
+      'This project involved extracting bank and market cap data from two JSON files, bank_market_cap_1.json and bank_market_cap_2.json. The data was then transformed using exchange rate data from exchange_rates.csv, and loaded into a separate CSV file..',
+    href: 'https://github.com/Kunathly10/ETL_Project',
+  },
 ];
 
 export const cv = [
   {
     id: 1,
-    title: 'Masters in Web Development',
+    title: 'Masterschool New York, USA',
     subtitle: 'Masterschool, New York United States',
     date: '2022 - 2023',
     description:
-      'Relevant course work: Advance HTML and CSS, JavaScript and DOM, MERN Full-stack development',
+      'As a student of Data Analysis, I have learned a wide range of skills and techniques that will enable me to use data to make informed decisions and solve complex problems. I have also gained hands-on experience with data analysis software such as R, Python, and SQL to manipulate and analyze large datasets',
     category: 'education',
   },
 
   {
     id: 2,
-    title: 'Masters degree in Innovation Marketing',
-    subtitle: 'UCAM, MURCIA SPAIN',
-    date: '2020 - 2021',
+    title: 'Masters Degree in Environmental Science',
+    subtitle: 'Ca Foscari University of Venice, Italy',
+    date: '2018 - 2022',
     description:
-      'Relevant course work: Digital and Mobile Marketing, Creativity and Innovation management, IOT education, Big Data management.',
+      'During my studies, I have gained a variety of skills relevant to the environmental science field, such as data analysis, project management, scientific research, and critical thinking. I have also had the opportunity to conduct independent research and presented my findings at conferences. I have also gained experience with software such as R, Matlab, and QGIS',
     category: 'education',
   },
 
   {
     id: 3,
-    title: 'Bachelor Degree Physical Education & Sports',
-    subtitle: 'Obafemi Awolowo University',
-    date: '2010 - 2012',
+    title: 'Bachelor Degree Industrial Chemistry',
+    subtitle: 'Federal University of Technology Akure, Nigeria',
+    date: '2011 - 2016',
     description:
-      'Relevant course work: Organization Administration of sports event, Project Management',
+      'Successful completion of a project on "Removal of Pb and Cd from wastewater using Saw-Dust as a Biochar". The project aimed to investigate the potential of using sawdust as biochar to remove heavy metals from wastewater, specifically lead (Pb) and cadmium (Cd). The project was a success, as the results showed that sawdust biochar was an effective adsorbent for removing both heavy metals from wastewater',
     category: 'education',
   },
-
   {
     id: 4,
-    title: 'Web Developer & Digital Marketing Expert',
-    subtitle: 'Neuroscience Business School',
-    date: '2022 - present',
+    title: 'PASSNFLY (An aviation company)',
+    subtitle: 'Data Analyst/Research Intern',
+    date: '2022 - 2023',
     description:
-      'Manage company website and daily digital marketing activities',
+      'Built Tableau dashboard to visualize core business KPIs (e.g., Monthly Recurring Revenue), saving 13 hours per week of manual reporting work. Aggregated unstructured data from 20+ sources to build the foundation of a new product, which led to €250,000 in new revenue.',
+    category: 'experience',
+  },
+  {
+    id: 4,
+    title: 'UNIVERSITY OF CADIZ, SPAIN',
+    subtitle: 'Data Analyst/Research Intern',
+    date: 'Jan 2022 - Jun 2022',
+    description:
+      'Conducted statistical analysis on 80% of environmental data to identify patterns and trends, resulting ting in an improved understanding of the local ecosystem. Cleaned and processed large environmental datasets (up to 100 GB) using software such as R or Python, improving data accuracy by 50%.',
+    category: 'experience',
+  },
+  {
+    id: 4,
+    title: 'FANMILK PLC, NIGERIA',
+    subtitle: 'Data Analyst/Research Intern',
+    date: 'Environmental Technician',
+    description:
+      'Successfully conducted environmental monitoring and testing to support a project which resulted in a 95% reduction in air pollutants. Collected and analyzed water samples which led to the identification and remediation of a contaminated site, resulting in an 80% reduction of hazardous waste.',
     category: 'experience',
   },
 ];
@@ -239,27 +266,28 @@ export const testimonials = [
   {
     id: 1,
     img: Testimonial1,
-    name: 'David L. Rajcher',
-    author: 'Head of Web Schools (Amsterdam, Netherlands)',
+    name: 'Ozy Huli, Masterschool',
+    author: 'Student Success Manager at Masterschool',
     description:
-      'George is a highly motivated student who brings is past experience in the digital industry and as a web developer to the table. He constantly challenges himself and pushes the borders of his knowledge and expertise. I have no doubt he can succeed working in any web development team.',
-    href: 'https://www.linkedin.com/in/david-rajcher/',
+      '“Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. He is highly organized and always prepared for class, ensuring that the material is presented logically and logically....."',
+    href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
     id: 2,
     img: Testimonial2,
-    name: 'Nathaniel Obafemi',
-    author: 'Data Researcher and Analyst(Barcelona, Spain)',
+    name: 'Sophie Riding',
+    author: '',
     description:
       'Dear Adeola, I am delighted to have the opportunity to recommend you for your exceptional skills in web development and digital marketing. Throughout the time we have worked together, I have been continually impressed by your technical proficiency',
-    href: 'https://www.linkedin.com/in/nathaniel-obafemi-1279b8146/',
+    href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
     id: 3,
     img: Testimonial3,
-    name: 'Issazhan Malgarayeva',
-    author: 'Business Developer and Sales Executive ',
+    name: 'Oluseun Sanuade',
+    author: 'Phd Student ',
     description:
-      'George is a skilled professional who is not only proficient in several programming languages, but also has a deep understanding of web design, user experience, and project management. He has an eye for detail and is dedicated to delivering high-quality...',
+      'Nathaniel Obafemi´s qualifications and previous educational background in Environmental science with a focus on data analysis make him a strong candidate for further study in the field of climate change and GIS.”',
+    href: 'https://www.linkedin.com/in/oluseun-sanuade-9406b730/',
   },
 ];

@@ -84,7 +84,7 @@ const Header = () => {
 
             <div className='header__socials'>
               <a
-                href='https://github.com/Georgeade10'
+                href='https://github.com/Kunathly10'
                 target='_blank'
                 className='header__social-link'
               >
@@ -92,7 +92,7 @@ const Header = () => {
               </a>
 
               <a
-                href='https://www.linkedin.com/in/georgeadeola/'
+                href='linkedin.com/in/nathaniel-obafemi/'
                 target='_blank'
                 className='header__social-link'
               >

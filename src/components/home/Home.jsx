@@ -65,7 +65,7 @@ const Home = () => {
 
           <div className='home__socials'>
             <a
-              href='https://www.linkedin.com/in/georgeadeola/'
+              href='http://linkedin.com/in/nathaniel-obafemi/'
               target='_blank'
               className='home__social-link'
             >
@@ -73,7 +73,7 @@ const Home = () => {
             </a>
 
             <a
-              href='https://github.com/Georgeade10'
+              href='https://github.com/Kunathly10'
               target='_blank'
               className='home__social-link'
             >
