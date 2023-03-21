@@ -261,7 +261,7 @@ export const testimonials = [
     name: 'Ozy Huli, Masterschool',
     author: 'Student Success Manager at Masterschool',
     description:
-      '“Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. He is highly organized and always prepared for class, ensuring that the material is presented logically and logically....."',
+      '“Hi Nathaniel,   As you might see in the slack community channels, we aim to help students build a strong network from the start. When transitioning to a new career it can sometimes be challenging to build a new network, since it may take some time and energy. This is why we ask a few students to help us in building a strong sense of community before the start of the program..."',
     href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
@@ -270,7 +270,7 @@ export const testimonials = [
     name: 'Sophie Riding',
     author: '',
     description:
-      'Dear Adeola, I am delighted to have the opportunity to recommend you for your exceptional skills in web development and digital marketing. Throughout the time we have worked together, I have been continually impressed by your technical proficiency',
+      '"Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. He is highly organized and always prepared for class, ensuring that the material is presented logically and logically. His enthusiasm for the subject (data analysis) is contagious and he is able to engage and inspire the students. In addition to his teaching abilities, He is also an excellent researcher....."',
     href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {
