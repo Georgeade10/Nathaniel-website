@@ -39,7 +39,7 @@ const Contact = () => {
     const formEle = document.querySelector('form');
     const formDatab = new FormData(formEle);
     fetch(
-      'https://script.google.com/macros/s/AKfycby7_jnYlqZtK9gAaJ77pgR4ki1H70YJXraadW4iXloERp-SF2mDmPqBPzSKJeS9BuGZ/exec',
+      'https://script.google.com/macros/s/AKfycbwOjjpLsgzoMEAijD47zmP-Z19OXog6o8MnAC4YRBqJI3MxSKM5UuKwjrzpJfQ4Q_vJ/exec',
       {
         method: 'POST',
         body: formDatab,
