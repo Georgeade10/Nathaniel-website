@@ -227,8 +227,8 @@ export const cv = [
   },
   {
     id: 4,
-    title: 'PASSNFLY (An aviation company)',
-    subtitle: 'Data Analyst/Research Intern',
+    title: 'PASSNFLY (An aviation company)/ Barcelona',
+    subtitle: 'Data Analyst/Research ',
     date: '2022 - 2023',
     description:
       'Built Tableau dashboard to visualize core business KPIs (e.g., Monthly Recurring Revenue), saving 13 hours per week of manual reporting work. Aggregated unstructured data from 20+ sources to build the foundation of a new product, which led to €250,000 in new revenue.',
