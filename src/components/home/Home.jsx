@@ -2,7 +2,7 @@ import React from 'react';
 import profileImg from '../../assets/profile-img.png';
 import { Link } from 'react-scroll';
 import { FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
-import CV from '../../assets/Nathaniel_obafemi_dataAnalyst.pdf';
+import CV from '../../assets/Olakunle_Nathaniel_Resume.pdf';
 import './home.css';
 
 const Home = () => {
