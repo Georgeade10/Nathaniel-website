@@ -101,29 +101,29 @@ export const skills = [
     name: 'Data manipulation',
     percentage: 85,
     description:
-      'The ability to efficiently and accurately manipulate large datasets using tools such as SQL, Python, or R is crucial for a data analyst',
+      'As a data analyst, my core skill is data manipulation, which involves cleaning, transforming, and analyzing data using tools such as SQL, Python, and R. I am able to work with large and complex data sets, identify and correct errors, and perform advanced transformations such as reshaping and merging data sources. .',
   },
 
   {
     id: 2,
     name: 'Data visualization:',
-    percentage: 75,
+    percentage: 80,
     description:
-      'Data analysts should be skilled in creating compelling and informative visualizations using tools like Tableau, Power BI, or matplotlib',
+      ' I possess a strong skill set in data visualization, which is crucial for conveying insights and findings effectively. I am proficient in using a range of libraries in Python, including Matplotlib, Seaborn, and Plotly, to create interactive and customizable visualizations such as line charts, bar charts, scatter plots, and heatmaps.',
   },
   {
     id: 3,
     name: 'Statistical analysis',
     percentage: 90,
     description:
-      'A strong foundation in statistics is critical for a data analyst to properly analyze and interpret data, including techniques such as hypothesis testing and regression analysis.',
+      'Skill set in statistical analysis, which enables me to extract meaningful insights from data using statistical methods and tools. I have a thorough understanding of statistical concepts such as probability, hypothesis testing, regression analysis, and machine learning algorithms. I am proficient in using statistical software such as R, Python, and SAS, and I can analyze large and complex data sets to identify patterns, trends, and relationships.',
   },
   {
     id: 4,
     name: 'Machine learning',
     percentage: 75,
     description:
-      'Understanding and applying machine learning techniques such as clustering, classification, and regression is becoming increasingly important in the field of data analysis',
+      'I have a strong skill set in machine learning, which is a subfield of artificial intelligence that enables computers to learn and make predictions from data. Experienced in using programming languages such as Python and R, and libraries such as Scikit-Learn, TensorFlow, and Keras, to develop and implement machine learning models ',
   },
 
   {
@@ -131,15 +131,15 @@ export const skills = [
     name: 'Data cleaning',
     percentage: 70,
     description:
-      'Cleaning and preparing data for analysis is a necessary step in the data analysis process, and requires skills such as data wrangling and data normalization',
+      'I possess strong data cleaning skills, which is the process of identifying and correcting errors, inconsistencies, and inaccuracies in data. I am experienced in using tools such as Python, R, and SQL to clean and preprocess data, including removing missing values, transforming data types, and identifying and correcting errors.',
   },
 
   {
     id: 6,
-    name: 'Programming',
+    name: 'ETL',
     percentage: 60,
     description:
-      'Data analysts should be proficient in at least one programming language, such as Python or R, to effectively manipulate, analyze, and visualize data',
+      'Strong ETL (Extract, Transform, Load) skills, which involve extracting data from various sources, transforming it into a format suitable for analysis, and loading it into a data warehouse or other systems. I am proficient in using ETL tools such as Talend, Apache NiFi, and SSIS to extract data from various sources such as databases, APIs, and flat files, transform it into a usable format, and load it into a data warehouse or other systems.',
   },
 
   {
@@ -147,7 +147,7 @@ export const skills = [
     name: 'Data warehousing',
     percentage: 60,
     description:
-      'Understanding data warehousing concepts and working with tools such as ETL (Extract, Transform, Load) is important for managing and processing large datasets',
+      'I possess strong data warehousing skills, which involve designing and building databases to store and manage large amounts of data. I am experienced in using tools such as SQL Server, Oracle, and PostgreSQL to create and manage data warehouses that can handle large and complex data sets. I am proficient in designing data models, optimizing database performance, and ensuring data integrity and security.',
   },
   {
     id: 8,
@@ -159,10 +159,17 @@ export const skills = [
   {
     id: 6,
     name: 'Database management',
-    percentage: 60,
+    percentage: 70,
     description:
-      'Knowledge of database management systems such as SQL Server, Oracle, or MySQL is necessary for a data analyst to effectively query, update, and maintain data.',
+      'As a data analyst, I possess strong database management skills, which involve creating, maintaining, and optimizing databases to store and manage large amounts of data. I am proficient in using database management systems such as MySQL, Oracle, and SQL Server to design, develop, and maintain databases that can handle large and complex data sets. I am experienced in optimizing database performance, ensuring data integrity and security, and troubleshooting issues that may arise. ',
   },
+  {
+    id: 6,
+    name: 'Web Scraping',
+    percentage: 75,
+    description:
+      'I possess strong web scraping skills, which involve extracting data from websites using automated tools and techniques. I am experienced in using web scraping tools such as BeautifulSoup, Scrapy, and Selenium to extract data from various sources such as HTML pages, APIs, and PDFs. ',
+  }
 ];
 
 export const projects = [
@@ -185,7 +192,7 @@ export const projects = [
     href: 'https://f19c59c6-696c-4494-922a-97aa7e9a092a.filesusr.com/ugd/7ca609_217db8c3e945436d880ebacefa206a7e.pdf',
   },
   {
-    id: 2,
+    id: 3,
     img: Project3,
     category: 'Python',
     title: 'ETL Process for Bank Market Cap Data',
@@ -193,6 +200,17 @@ export const projects = [
       'This project involved extracting bank and market cap data from two JSON files, bank_market_cap_1.json and bank_market_cap_2.json. The data was then transformed using exchange rate data from exchange_rates.csv, and loaded into a separate CSV file..',
     href: 'https://github.com/Kunathly10/ETL_Project',
   },
+  {
+    id: 4,
+    img: Project3,
+    category: 'Python',
+    title: 'United State Mass Shooting',
+    description:
+      'Mass shootings have devastating consequences and are a serious issue in the United State. To address this issue effectively, it is important to understand the trends. ',
+    href: 'https://github.com/Kunathly10/Project_US-mass-shooting',
+  },
+ 
+  
 ];
 
 export const cv = [
