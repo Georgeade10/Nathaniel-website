@@ -52,7 +52,16 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-          This is
+          Nathaniel Obafemi is a skilled and motivated data analyst and
+            environmental scientist with 4 years of experience in environmental
+            research. He is proficient in statistical analysis, modeling, ETL, Webscraping, and
+            data visualization using software such as SQL, Python, Excel, and
+            Tableau to develop data-driven solutions to complex problems.
+            Nathaniel is committed to staying up-to-date with the latest
+            industry trends and has a Master's degree in Environmental Science
+            while currently being a Data Analysis student. He is a lifelong
+            learner and valuable asset to any team or project.
+
           </p>
 
           <div className='home__socials'>
