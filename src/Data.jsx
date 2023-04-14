@@ -226,7 +226,7 @@ export const cv = [
 
   {
     id: 2,
-    title: 'Masters Degree in Environmental Science',
+    title: 'Masters Degree in Environmental Science ( Data Modeling)',
     subtitle: 'Ca Foscari University of Venice, Italy',
     date: '2018 - 2022',
     description:
@@ -255,7 +255,7 @@ export const cv = [
   {
     id: 4,
     title: 'UNIVERSITY OF CADIZ, SPAIN',
-    subtitle: 'Data Analyst/Research Intern',
+    subtitle: 'Environmental Data Science',
     date: 'Jan 2022 - Jun 2022',
     description:
       'Conducted statistical analysis on 80% of environmental data to identify patterns and trends, resulting ting in an improved understanding of the local ecosystem. Cleaned and processed large environmental datasets (up to 100 GB) using software such as R or Python, improving data accuracy by 50%.',
@@ -264,8 +264,8 @@ export const cv = [
   {
     id: 4,
     title: 'FANMILK PLC, NIGERIA',
-    subtitle: 'Data Analyst/Research Intern',
-    date: 'Environmental Technician',
+    subtitle: 'Environmental Data Technician',
+    date: '2016-2018',
     description:
       'Successfully conducted environmental monitoring and testing to support a project which resulted in a 95% reduction in air pollutants. Collected and analyzed water samples which led to the identification and remediation of a contaminated site, resulting in an 80% reduction of hazardous waste.',
     category: 'experience',
@@ -288,7 +288,7 @@ export const testimonials = [
     name: 'Sophie Riding',
     author: '',
     description:
-      '"Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. He is highly organized and always prepared for class, ensuring that the material is presented logically and logically. His enthusiasm for the subject (data analysis) is contagious and he is able to engage and inspire the students. In addition to his teaching abilities, He is also an excellent researcher....."',
+      '"Nathaniel Obafemi has a deep understanding of the subject matter and is able to explain complex concepts in a clear and easily understandable manner. ....."',
     href: 'https://www.linkedin.com/in/sophie-riding/',
   },
   {

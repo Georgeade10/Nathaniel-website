@@ -32,7 +32,7 @@ const Home = () => {
 
             <p className='home__data home__data-one'>
               <span className='text-lg'>
-                5 <b>+</b>
+                4 <b>+</b>
               </span>
 
               <span className='text-sm text-cs'>
