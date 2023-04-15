@@ -1,6 +1,7 @@
 import Project1 from './assets/project1.png';
 import Project2 from './assets/project2.png';
 import Project3 from './assets/project3.jpg';
+import Project4 from './assets/Project4.png';
 
 import Testimonial1 from './assets/testimonial1.jpg';
 import Testimonial2 from './assets/testimonial2.jpg';
@@ -209,6 +210,15 @@ export const projects = [
       'Mass shootings have devastating consequences and are a serious issue in the United State. To address this issue effectively, it is important to understand the trends. ',
     href: 'https://github.com/Kunathly10/Project_US-mass-shooting',
   },
+  {
+    id: 4,
+    img: Project4,
+    category: 'Tableau',
+    title: 'Unicorn Data Analytic Dashboard',
+    description:
+      'As a candidate for a DA position at Unicorn company, I have conducted an analysis of our sales data, and I am pleased to present my findings to the DA team lead. ',
+    href: 'https://public.tableau.com/app/profile/nathaniel.obafemi/viz/capstonepoject/Unicorn_analytic_Dashboard',
+  }
  
   
 ];
