@@ -2,7 +2,7 @@ import React from 'react';
 import profileImg from '../../assets/profile-img.png';
 import { Link } from 'react-scroll';
 import { FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
-import CV from '../../assets/Olakunle_Nathaniel_Resume.pdf';
+import CV from '../../assets/Olakunle Nathan.pdf';
 import './home.css';
 
 const Home = () => {
@@ -52,15 +52,7 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-          Nathaniel Obafemi is a skilled and motivated data analyst and
-            environmental scientist with 4 years of experience in environmental
-            research. He is proficient in statistical analysis, modeling, ETL, Webscraping, and
-            data visualization using software such as SQL, Python, Excel, and
-            Tableau to develop data-driven solutions to complex problems.
-            Nathaniel is committed to staying up-to-date with the latest
-            industry trends and has a Master's degree in Environmental Science
-            while currently being a Data Analysis student. He is a lifelong
-            learner and valuable asset to any team or project.
+          A motivated and highly skilled Data Analyst and Environmental Scientist with years of experience in analyzing data. I am able to perform statistical analysis, hypothesis testing on your product. I have a strong proficiency in statistical analysis, modeling, and data visualization using software such as SQL, Python, Excel, and Tableau to develop data-driven solutions to complex problems.
 
           </p>
 

@@ -170,6 +170,13 @@ export const skills = [
     percentage: 75,
     description:
       'I possess strong web scraping skills, which involve extracting data from websites using automated tools and techniques. I am experienced in using web scraping tools such as BeautifulSoup, Scrapy, and Selenium to extract data from various sources such as HTML pages, APIs, and PDFs. ',
+  },
+  {  
+  id: 6,
+    name: 'A/B testing',
+    percentage: 90,
+    description:
+      'I am able to perform A/B testing or hypothesis testing on your digital product.',
   }
 ];
 
@@ -218,6 +225,15 @@ export const projects = [
     description:
       'As a candidate for a DA position at Unicorn company, I have conducted an analysis of our sales data, and I am pleased to present my findings to the DA team lead. ',
     href: 'https://public.tableau.com/app/profile/nathaniel.obafemi/viz/capstonepoject/Unicorn_analytic_Dashboard',
+  },
+  {
+      id: 4,
+    img: Project3,
+    category: 'Python',
+    title: 'A/B testing for GloBox Company',
+    description:
+      "Conducted an A/B test on an e-commerce website to determine whether a change to the website's layout would result in an increase in revenue.",
+    href: 'https://github.com/Kunathly10/-A-B-testing-project-GloBox',
   }
  
   
