@@ -218,7 +218,7 @@ export const projects = [
     href: 'https://github.com/Kunathly10/Project_US-mass-shooting',
   },
   {
-    id: 4,
+    id: 5,
     img: Project4,
     category: 'Tableau',
     title: 'Unicorn Data Analytic Dashboard',
@@ -227,7 +227,7 @@ export const projects = [
     href: 'https://public.tableau.com/app/profile/nathaniel.obafemi/viz/capstonepoject/Unicorn_analytic_Dashboard',
   },
   {
-      id: 4,
+      id: 6,
     img: Project3,
     category: 'Python',
     title: 'A/B testing for GloBox Company',
