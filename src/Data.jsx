@@ -233,7 +233,7 @@ export const projects = [
     title: 'A/B testing for GloBox Company',
     description:
       "Conducted an A/B test on an e-commerce website to determine whether a change to the website's layout would result in an increase in revenue.",
-    href: 'https://public.tableau.com/app/profile/nathaniel.obafemi/viz/capstonepoject/Unicorn_analytic_Dashboard',
+    href: 'https://github.com/Kunathly10/-A-B-testing-project-GloBox',
   }
  
   
