@@ -210,6 +210,15 @@ export const projects = [
     href: 'https://github.com/Kunathly10/CO2-emission',
   },
   {
+    id: 2,
+    img: Project3,
+    category: 'Python',
+    title: 'Pillow Palooza Short-term Rental Market Analysis: Key Insights and Recommendations',
+    description:
+      "As the Data Analyst at Pillow Palooza, I have conducted an in-depth analysis of the short-term rental market in New York City. This analysis aims to provide insights and recommendations to the company leadership, including the CEO, VP of Data, Head of Finance, and Head of Marketing. ",
+    href: 'https://github.com/Kunathly10/short-term-rental-market-analysis'
+  },
+  {
     id: 3,
     img: Project3,
     category: 'Python',
