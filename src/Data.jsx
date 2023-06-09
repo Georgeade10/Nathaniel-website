@@ -253,17 +253,7 @@ export const projects = [
     description:
       "Conducted an A/B test on an e-commerce website to determine whether a change to the website's layout would result in an increase in revenue.",
     href: 'https://github.com/Kunathly10/-A-B-testing-project-GloBox',
-  }, 
-  {
-    id: 7,
-    img: Project3,
-    category: 'Python',
-    title: 'A/B testing for GloBox Company',
-    description:
-      "Conducted an A/B test on an e-commerce website to determine whether a change to the website's layout would result in an increase in revenue.",
-    href: 'https://github.com/Kunathly10/-A-B-testing-project-GloBox',
   }
- 
   
 ];
 
