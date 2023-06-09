@@ -200,6 +200,16 @@ export const projects = [
     href: 'https://f19c59c6-696c-4494-922a-97aa7e9a092a.filesusr.com/ugd/7ca609_217db8c3e945436d880ebacefa206a7e.pdf',
   },
   {
+    
+    id: 2,
+    img: Project3,
+    category: 'Python',
+    title: 'CO2 Emissions and Bunker Fuel Consumption in Spain',
+    description:
+      "The analysis focuses on Spain's position in the top 10 countries with the highest CO2 emissions and its significant contribution to bunker fuel consumption",
+    href: 'https://github.com/Kunathly10/CO2-emission',
+  },
+  {
     id: 3,
     img: Project3,
     category: 'Python',
@@ -228,6 +238,15 @@ export const projects = [
   },
   {
       id: 6,
+    img: Project3,
+    category: 'Python',
+    title: 'A/B testing for GloBox Company',
+    description:
+      "Conducted an A/B test on an e-commerce website to determine whether a change to the website's layout would result in an increase in revenue.",
+    href: 'https://github.com/Kunathly10/-A-B-testing-project-GloBox',
+  }, 
+  {
+    id: 7,
     img: Project3,
     category: 'Python',
     title: 'A/B testing for GloBox Company',
