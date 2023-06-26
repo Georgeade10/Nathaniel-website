@@ -308,7 +308,7 @@ export const cv = [
   {
     id: 4,
     title: 'FANMILK PLC, NIGERIA',
-    subtitle: 'Environmental Data Technician',
+    subtitle: 'Data Analyst',
     date: '2016-2018',
     description:
       'Successfully conducted environmental monitoring and testing to support a project which resulted in a 95% reduction in air pollutants. Collected and analyzed water samples which led to the identification and remediation of a contaminated site, resulting in an 80% reduction of hazardous waste.',
