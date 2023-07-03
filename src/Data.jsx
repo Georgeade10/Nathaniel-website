@@ -177,7 +177,14 @@ export const skills = [
     percentage: 90,
     description:
       'I am able to perform A/B testing or hypothesis testing on your digital product.',
-  }
+  },
+  {  
+    id: 6,
+      name: 'Power BI',
+      percentage: 90,
+      description:
+        'Building different data reports and story using Power BI.',
+    }
 ];
 
 export const projects = [
@@ -260,6 +267,15 @@ export const projects = [
 export const cv = [
   {
     id: 1,
+    title: '10Alytic United Kingdom',
+    subtitle: 'Masters Data Engineering',
+    date: '2023 - 2023',
+    description:
+      'I am learning to improve on my skills by transitioning into a Data Engineer.',
+    category: 'education'
+  },
+  {
+    id: 1,
     title: 'Masterschool New York, USA',
     subtitle: 'Masterschool, New York United States',
     date: '2022 - 2023',
@@ -287,17 +303,24 @@ export const cv = [
       'Successful completion of a project on "Removal of Pb and Cd from wastewater using Saw-Dust as a Biochar". The project aimed to investigate the potential of using sawdust as biochar to remove heavy metals from wastewater, specifically lead (Pb) and cadmium (Cd). The project was a success, as the results showed that sawdust biochar was an effective adsorbent for removing both heavy metals from wastewater',
     category: 'education',
   },
-  {
-    id: 4,
+  {id: 4,
+    title: 'Masterschool New York, USA',
+    subtitle: 'Data | Business Anallyst ',
+    date: '2022 - present',
+    description:
+      '•Designed and adopted data-driven strategies, resulting in a 15% increase in salesrevenue and a 10% improvement in customersatisfaction. •Collaborated with cross-functional teamsto streamline processes, reducing operational costs by 20% and increasing overall efficiency',
+    category: 'experience'},
+    
+    {id: 5,
     title: 'PASSNFLY (An aviation company)/ Barcelona',
     subtitle: 'Data Analyst/Research ',
     date: '2022 - 2023',
     description:
-      'Built Tableau dashboard to visualize core business KPIs (e.g., Monthly Recurring Revenue), saving 13 hours per week of manual reporting work. Aggregated unstructured data from 20+ sources to build the foundation of a new product, which led to €250,000 in new revenue.',
+      'Reserached on the company data need and analyzed them using Excel.',
     category: 'experience',
   },
   {
-    id: 4,
+    id: 6,
     title: 'UNIVERSITY OF CADIZ, SPAIN',
     subtitle: 'Environmental Data Science',
     date: 'Jan 2022 - Jun 2022',
@@ -306,10 +329,19 @@ export const cv = [
     category: 'experience',
   },
   {
-    id: 4,
+    id: 6,
+    title: 'ARTIQ UK LTD',
+    subtitle: 'Data Analysis',
+    date: '2016 - 2019',
+    description:
+      '•Built a Tableau dashboard to visualize core business KPIs(e.g. Monthly Recurring Revenue), saving 13 hours per week of manual reporting work. •Deployed SQL for testing reports and ETL load jobs, optimizing data processing and reducing errors by 15%. •Developed and maintained reports, dashboards, and visualizationsto drive data-driven decision-making, resulting in a 20% improvement in operational efficiency.',
+    category: 'experience',
+  },
+  {
+    id: 7,
     title: 'FANMILK PLC, NIGERIA',
     subtitle: 'Data Analyst',
-    date: '2016-2018',
+    date: '2015-2016',
     description:
       'Successfully conducted environmental monitoring and testing to support a project which resulted in a 95% reduction in air pollutants. Collected and analyzed water samples which led to the identification and remediation of a contaminated site, resulting in an 80% reduction of hazardous waste.',
     category: 'experience',
