@@ -52,7 +52,11 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-          A motivated and highly skilled Data Analyst and Environmental Scientist with years of experience in analyzing data. I am able to perform statistical analysis, hypothesis testing on your product. I have a strong proficiency in statistical analysis, modeling, and data visualization using software such as SQL, Python, Excel, and Tableau to develop data-driven solutions to complex problems.
+            I have Collaborated on diverse initiatives, including analyzing automotive data, managing financial data for banks, implementing
+            carbon reduction strategies, and assessing land-use changes and biodiversity impact. Through these projects, demonstrated
+            data analysis, modeling, and visualization expertise, delivering valuable insights and driving positive outcomes for
+            organizations. Optimized business processes, optimizing BI performance, reducing costs, and driving revenue growth
+            through data-driven decision-making. Managed a 5-member cross-functional team and coordinated with six business partners toward the     successful launch of an e-commerce platform.
 
           </p>
 
