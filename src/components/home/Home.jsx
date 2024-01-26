@@ -17,7 +17,7 @@ const Home = () => {
             <span>Nathaniel</span> Obafemi
           </h1>
           <p className='home__job'>
-            <b>Data Analyst </b>
+            <b>Data | Business Analyst </b>
           </p>
 
           <div className='home__img-wrapper'>
@@ -100,7 +100,7 @@ const Home = () => {
       </div>
 
       <div className='section__bg-wrapper'>
-        <span className='bg__title'>Business | Data Analyst</span>
+        <span className='bg__title'>Data Analyst</span>
       </div>
     </section>
   );
