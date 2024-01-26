@@ -100,7 +100,7 @@ const Home = () => {
       </div>
 
       <div className='section__bg-wrapper'>
-        <span className='bg__title'>Data Analyst</span>
+        <span className='bg__title'>Business | Data Analyst</span>
       </div>
     </section>
   );

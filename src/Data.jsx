@@ -138,7 +138,7 @@ export const skills = [
   {
     id: 6,
     name: 'ETL',
-    percentage: 60,
+    percentage: 95,
     description:
       'Strong ETL (Extract, Transform, Load) skills, which involve extracting data from various sources, transforming it into a format suitable for analysis, and loading it into a data warehouse or other systems. I am proficient in using ETL tools such as Talend, Apache NiFi, and SSIS to extract data from various sources such as databases, APIs, and flat files, transform it into a usable format, and load it into a data warehouse or other systems.',
   },
@@ -146,7 +146,7 @@ export const skills = [
   {
     id: 7,
     name: 'Data warehousing',
-    percentage: 60,
+    percentage: 95,
     description:
       'I possess strong data warehousing skills, which involve designing and building databases to store and manage large amounts of data. I am experienced in using tools such as SQL Server, Oracle, and PostgreSQL to create and manage data warehouses that can handle large and complex data sets. I am proficient in designing data models, optimizing database performance, and ensuring data integrity and security.',
   },
@@ -160,7 +160,7 @@ export const skills = [
   {
     id: 6,
     name: 'Database management',
-    percentage: 70,
+    percentage: 95,
     description:
       'As a data analyst, I possess strong database management skills, which involve creating, maintaining, and optimizing databases to store and manage large amounts of data. I am proficient in using database management systems such as MySQL, Oracle, and SQL Server to design, develop, and maintain databases that can handle large and complex data sets. I am experienced in optimizing database performance, ensuring data integrity and security, and troubleshooting issues that may arise. ',
   },
