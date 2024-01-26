@@ -16,7 +16,7 @@ const Footer = () => {
           </a>
 
           <a
-            href='linkedin.com/in/nathaniel-obafemi/'
+            href='https://www.linkedin.com/in/nathaniel-obafemi/'
             target='_blank'
             className='footer__social-link'
           >
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
 
         <p className='footer__copyright text-cs'>
-          &copy; 2023 <span>Gola</span>. All Rights Reserved
+          &copy; 2023 <span>Nathaniel</span>. All Rights Reserved
         </p>
       </div>
     </footer>
